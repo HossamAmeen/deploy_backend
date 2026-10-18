@@ -3,7 +3,7 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-VERSION = "2.0.0"
+VERSION = "3.0.0"
 
 
 def env_list(name, default=""):
